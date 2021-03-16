@@ -6,7 +6,7 @@
 
 ⚡  Fun fact: I have a blog <a href="https://link.medium.com/TJvAMtmZY7">Javascript Stuff</a>
 
-🎙  Talks: You can find my latest talks on my website <a href="https://www.alexanderkaran.com/talks">Alexander karan</a>
+🎙  Talks: You can find my latest talks on my website <a href="https://www.alexanderkaran.com/#talks">Talks and Podcasts</a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderKaran" alt="AlexanderKaran" /></p>
 
