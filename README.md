@@ -6,11 +6,11 @@ I am the co-founder and CTO at <a href="https://www.climateclever.org">ClimateCl
 
 A full-stack developer with over ten years of experience, I have previously run an App development agency, managing various teams from design and marketing to web and native mobile app developers both in Australia and abroad, and overseen the development of many projects. 
 
-My strengths are in system architecture design and being able to communicate complicated tech to everyday people. I have helped to scale numerous startups, and I am passionate about making a positive difference. 
+My strengths are in system architecture design and being able to communicate complicated tech to everyday people. I have helped scale numerous startups, and I am passionate about making a positive difference. 
 
-When I am not working, you can find me writing new articles about being a programmer, from opinion pieces to tutorials. I regularly talk on various topics, my latest two being on micro frontends at Latency Conf and a TEDx talk on privacy and data.
+When I am not working, you can find me writing new articles about being a programmer, from opinion pieces to tutorials. I regularly talk on various topics, my latest: microservices at Latency Conf 2021 and a TEDx talk on privacy and data.
 
-I am devastated by the state of the world, love a good political rant and can often be found swearing at no one in particular. I love building products with Node, React, MongoDB and AWS.
+I am devastated by the state of the world, love a good political rant and can often be found swearing at no one in particular. I love Node, Deno, React, Svelte, MongoDB and a little bit of Rust.
 
 ## 🐦 Twitter
 
