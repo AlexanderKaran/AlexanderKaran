@@ -18,7 +18,7 @@ You can follow me on <a href="https://www.climateclever.org">twiiter</a> for Jav
 
 ## 📰 Blog 
 
-I have a new blog hosted on hashnode covering react, node, svelte and deno: <a href="https://link.medium.com/TJvAMtmZY7">My Blog</a>
+I have a new blog hosted on hashnode covering react, node, svelte and deno: <a href="https://blog.alexanderkaran.com/">My Blog</a>
 
 ## 🎙 Talks
 
