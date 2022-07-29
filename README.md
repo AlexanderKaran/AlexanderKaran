@@ -14,7 +14,7 @@ I am devastated by the state of the world, love a good political rant and can of
 
 ## 🐦 Twitter
 
-You can follow me on <a href="https://www.climateclever.org">twiiter</a> for JavaScript and climate content
+You can follow me on <a href="https://twitter.com/alexanderKaran_">twiiter</a> for JavaScript and climate content
 
 ## 📰 Blog 
 
