@@ -24,9 +24,9 @@ I have a new blog hosted on hashnode covering react, node, svelte and deno: <a h
 
 Check out some of my latest talks on privacy, microservices and building UI.
 
-| TedX | Microservices | Micro Frontends |
+| TedX | Web3: The Great Con | Micro Frontends |
 | :--: | :--: | :--: |
-| [![TedX Privacy and Data](http://img.youtube.com/vi/uG7kmUomXog/0.jpg)](http://www.youtube.com/watch?v=uG7kmUomXog "TedX Privacy and Data") | [![Latency 2021](http://img.youtube.com/vi/vUAE9fQDaDQ/0.jpg)](http://www.youtube.com/watch?v=vUAE9fQDaDQ "Latency 2021") | [![Latency 2022](http://img.youtube.com/vi/yDjTcBKXKDE/0.jpg)](http://www.youtube.com/watch?v=yDjTcBKXKDE "Latency 2022") |
+| [![TedX Privacy and Data](http://img.youtube.com/vi/uG7kmUomXog/0.jpg)](http://www.youtube.com/watch?v=uG7kmUomXog "TedX Privacy and Data") | [![DDDPerth 2022](https://img.youtube.com/vi/S-fRhCTiJys/0.jpg)](https://www.youtube.com/watch?v=S-fRhCTiJys "DDDPerth 2022") | [![Latency 2021](http://img.youtube.com/vi/yDjTcBKXKDE/0.jpg)](http://www.youtube.com/watch?v=yDjTcBKXKDE "Latency 2021") |
 
 ## 📫 Contact 
 
