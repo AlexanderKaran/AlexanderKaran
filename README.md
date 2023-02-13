@@ -2,7 +2,7 @@
 
 My name is Alexander. I am a JavaScript develoepr.
 
-I am the co-founder and CTO at <a href="https://www.climateclever.org">ClimateClever</a>, a startup helping schools, homes, and businesses track, reduce, and report their carbon footprint. 
+I am the CTO at <a href="https://www.climateclever.org">ClimateClever</a> - a climate-tech company helping businesses of all sizes to accurately measure and reduce emissions, focusing on aggregating supply chain emissions.
 
 A full-stack developer with over ten years of experience, I have previously run an App development agency, managing various teams from design and marketing to web and native mobile app developers both in Australia and abroad, and overseen the development of many projects. 
 
@@ -30,5 +30,5 @@ Check out some of my latest talks on privacy, microservices and building UI.
 
 ## 📫 Contact 
 
-You can <a href="mailto:alexanderkaran@hey.com">email me here</a>
+You can <a href="mailto:tech@alexanderkaran.com">email me here</a>
 
