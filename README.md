@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Alexander. I am a JavaScript develoepr.
+My name is Alexander. I am a JavaScript developer.
 
 I am the CTO at <a href="https://www.climateclever.org">ClimateClever</a> - a climate-tech company helping businesses of all sizes to accurately measure and reduce emissions, focusing on aggregating supply chain emissions.
 
