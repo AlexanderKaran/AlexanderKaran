@@ -1,16 +1,16 @@
 # Hi there 👋
 
-My name is Alexander. I am a JavaScript developer.
+My name is Alexander.
 
-I am the CTO at <a href="https://www.climateclever.org">ClimateClever</a> - a climate-tech company helping businesses of all sizes to accurately measure and reduce emissions, focusing on aggregating supply chain emissions.
+I am a Senior Software Engineer at Atlassian working in the Cloud FinOps team using Java and Kotlin.
 
-A full-stack developer with over ten years of experience, I have previously run an App development agency, managing various teams from design and marketing to web and native mobile app developers both in Australia and abroad, and overseen the development of many projects. 
+I am a full-stack developer with twelve years of experience. I previously ran an App development agency, managing various teams across design and development, leading web, backend and native mobile app developers in Australia and Europe.
 
-My strengths are in system architecture design and being able to communicate complicated tech to everyday people. I have helped scale numerous startups, and I am passionate about making a positive difference. 
+My strengths are system architecture design and communicating complicated tech to everyday people. Having helped scale tech at numerous startups, I am passionate about making a positive difference.
 
-When I am not working, you can find me writing new articles about being a programmer, from opinion pieces to tutorials. I regularly talk on various topics, my latest: microservices at Latency Conf 2021 and a TEDx talk on privacy and data.
+When not working, you can find me writing tech articles and teaching Javascript and React at SheCodes, an initiative helping to get more women into tech. I regularly give talks on various topics, focusing on the impact the technology we build can have.
 
-I am devastated by the state of the world, love a good political rant and can often be found swearing at no one in particular. I love Node, Deno, React, Svelte, MongoDB and a little bit of Rust.
+I am devastated by the state of the world, love a good political rant and can often be swearing at no one in particular. I enjoy building things in Node, Deno, React, Svelte, MongoDB and Rust.
 
 ## 🐦 Twitter
 
