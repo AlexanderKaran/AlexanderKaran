@@ -10,7 +10,7 @@ My strengths are system architecture design and communicating complicated tech t
 
 When not working, you can find me writing tech articles and teaching Javascript and React at SheCodes, an initiative helping to get more women into tech. I regularly give talks on various topics, focusing on the impact the technology we build can have.
 
-I am devastated by the state of the world, love a good political rant and can often be swearing at no one in particular. I enjoy building things in Node, Deno, React, Svelte, MongoDB and Rust.
+I am devastated by the state of the world, love a good political rant and can often be swearing at no one in particular. I enjoy building things in JavaScript, Deno and Node.
 
 ## 🐦 Twitter
 
