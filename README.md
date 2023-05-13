@@ -2,9 +2,9 @@
 
 My name is Alexander.
 
-I am a Senior Software Engineer at Atlassian working in the Cloud FinOps team using Java and Kotlin.
+I am a full stack developer with twelve years of experience working at Atlassian on the Cloud FinOps team.
 
-I am a full-stack developer with twelve years of experience. I previously ran an App development agency, managing various teams across design and development, leading web, backend and native mobile app developers in Australia and Europe.
+I previously ran an App development agency, managing various teams across design and development, leading web, backend and native mobile app developers in Australia and Europe.
 
 My strengths are system architecture design and communicating complicated tech to everyday people. Having helped scale tech at numerous startups, I am passionate about making a positive difference.
 
