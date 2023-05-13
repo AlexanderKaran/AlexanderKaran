@@ -2,7 +2,7 @@
 
 My name is Alexander.
 
-I am a full stack developer with twelve years of experience working at Atlassian on the Cloud FinOps team.
+I have been a full-stack developer for twelve years and am currently part of the Cloud FinOps team at Atlassian.
 
 I previously ran an App development agency, managing various teams across design and development, leading web, backend and native mobile app developers in Australia and Europe.
 
