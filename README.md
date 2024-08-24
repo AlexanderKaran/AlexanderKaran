@@ -18,15 +18,15 @@ You can follow me on <a href="https://twitter.com/alexanderKaran_">twiiter</a> f
 
 ## 📰 Blog 
 
-I have a new blog hosted on hashnode covering react, node, svelte and deno: <a href="https://blog.alexanderkaran.com/">My Blog</a>
+I have a new blog hosted on hashnode covering react, node, deno and more: <a href="https://blog.alexanderkaran.com/">My Blog</a>
 
 ## 🎙 Talks
 
-Check out some of my latest talks on privacy, microservices and building UI.
+Check out some of my latest talks on privacy, edge computing and more.
 
-| TedX | Web3: The Great Con | Micro Frontends |
+| TedX | Web3: The Great Con | Edge Computing |
 | :--: | :--: | :--: |
-| [![TedX Privacy and Data](http://img.youtube.com/vi/uG7kmUomXog/0.jpg)](http://www.youtube.com/watch?v=uG7kmUomXog "TedX Privacy and Data") | [![DDDPerth 2022](https://img.youtube.com/vi/S-fRhCTiJys/0.jpg)](https://www.youtube.com/watch?v=S-fRhCTiJys "DDDPerth 2022") | [![Latency 2021](http://img.youtube.com/vi/yDjTcBKXKDE/0.jpg)](http://www.youtube.com/watch?v=yDjTcBKXKDE "Latency 2021") |
+| [![TedX Privacy and Data](http://img.youtube.com/vi/uG7kmUomXog/0.jpg)](http://www.youtube.com/watch?v=uG7kmUomXog "TedX Privacy and Data") | [![DDDPerth 2022](https://img.youtube.com/vi/S-fRhCTiJys/0.jpg)](https://www.youtube.com/watch?v=S-fRhCTiJys "DDDPerth 2022") | [![NDC Oslo 2023](http://img.youtube.com/vi/GrcanQ-nT_s/0.jpg)](https://www.youtube.com/watch?v=GrcanQ-nT_s "NDC Oslo 2023") |
 
 ## 📫 Contact 
 
