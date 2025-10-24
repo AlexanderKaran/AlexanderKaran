@@ -12,13 +12,15 @@ When not working, you can find me writing tech articles and teaching Javascript 
 
 I am devastated by the state of the world, love a good political rant and can often be swearing at no one in particular. I enjoy building things in JavaScript, Deno and Node.
 
-## 🐦 Twitter
+## 🦋 BlueSky
 
-You can follow me on <a href="https://twitter.com/alexanderKaran_">twiiter</a> for JavaScript and climate content
+You can follow me on <a href="https://bsky.app/profile/alexanderkaran.bsky.social">BlueSky</a> for JavaScript, APIs and climate content
 
 ## 📰 Blog 
 
-I have a new blog hosted on hashnode covering react, node, deno and more: <a href="https://blog.alexanderkaran.com/">My Blog</a>
+I have a new blog hosted on Hashnode covering React, Node, Deno and more: <a href="https://blog.alexanderkaran.com/">My Blog</a>
+
+If you're into APIs, I also write the regular newsletter over on <a href="https://apisyouwonthate.com/tag/newsletter/">APIs You Won't Hate</a>
 
 ## 🎙 Talks
 
