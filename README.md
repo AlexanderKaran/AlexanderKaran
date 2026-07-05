@@ -14,7 +14,7 @@ My strengths are systems architecture and communicating complicated technical co
 
 You can follow me on <a href="https://bsky.app/profile/alexanderkaran.bsky.social">BlueSky</a> for JavaScript, APIs and climate content
 
-## 🌐
+## 🌐 On the Web
 
 I am part of the core team at <a href="">e18e</a> helping to improve the performance of the JavaScript ecosystem.
 
