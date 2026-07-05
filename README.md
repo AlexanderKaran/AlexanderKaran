@@ -2,23 +2,21 @@
 
 My name is Alexander.
 
-I have been a full-stack developer for twelve years and am currently part of the Cloud FinOps team at Atlassian.
+A full-stack engineer with over twelve years of experience, I currently lead the FinOps Software and Tooling team, working across Atlassian to reduce cloud spend through performance-focused improvements and developer tooling.
 
-I previously ran an App development agency, managing various teams across design and development, leading web, backend and native mobile app developers in Australia and Europe.
+I previously ran an app development agency, leading teams across Australia and Europe in web, backend, and native mobile development. Working closely with clients inspired me to co-found a startup that helped schools and businesses track and reduce their carbon footprint, delivering both real climate impact and significant cost savings.
 
-My strengths are system architecture design and communicating complicated tech to everyday people. Having helped scale tech at numerous startups, I am passionate about making a positive difference.
+Outside my day job, I am a core member of the E18E community, helping to clean up and speed up the JavaScript ecosystem. I also have a strong passion for API design and run the APIs You Won’t Hate newsletter and OpenAPI.tools.
 
-When not working, you can find me writing tech articles and teaching Javascript and React at SheCodes, an initiative helping to get more women into tech. I regularly give talks on various topics, focusing on the impact the technology we build can have.
-
-I am devastated by the state of the world, love a good political rant and can often be swearing at no one in particular. I enjoy building things in JavaScript, Deno and Node.
+My strengths are systems architecture and communicating complicated technical concepts to everyday people. Having helped scale technology at numerous startups and worked at enterprise scale, I understand the importance of delivering excellent user experiences and robust systems.
 
 ## 🦋 BlueSky
 
 You can follow me on <a href="https://bsky.app/profile/alexanderkaran.bsky.social">BlueSky</a> for JavaScript, APIs and climate content
 
-## 📰 Blog 
+## 🌐
 
-I have a new blog hosted on Hashnode covering React, Node, Deno and more: <a href="https://blog.alexanderkaran.com/">My Blog</a>
+I am part of the core team at <a href="">e18e</a> helping to improve the performance of the JavaScript ecosystem.
 
 If you're into APIs, I also write the regular newsletter over on <a href="https://apisyouwonthate.com/tag/newsletter/">APIs You Won't Hate</a>
 
